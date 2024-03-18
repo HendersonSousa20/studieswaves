@@ -10,7 +10,9 @@ Studiewaves is a modern and dynamic website designed for learners who embrace co
 
 ## Preview 🖼️
 
-![Studiewaves Preview](./Preview.png)
+<p align="center">
+   <img src="./assets/Preview.png" alt="" width="100%">
+</p>
 
 ## Getting Started 🎉
 
